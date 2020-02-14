@@ -1,4 +1,4 @@
-## Markown-mémo
+## Markdown-mémo
 
 ---
 
@@ -43,16 +43,16 @@ __gras__ = `__gras__`
 
 `* liste`  
 `* à`  
-`* points`
+`* points`  
 
 
 1. liste
 2. à
 3. nombres
 
-`1. liste`
-`2. à`
-`3. nombres`
+`1. liste`  
+`2. à`  
+`3. nombres`  
 
 ---
 
@@ -90,7 +90,7 @@ __gras__ = `__gras__`
 `<h1>Morceau de code</h1>` = entouré avec accent grave (`AltGr` + `7`)  
 
 
-Phrase de présentation + écrit tel quel :
+Code entier = écrit tel quel :  
 
     int main()
     {
@@ -102,17 +102,12 @@ Phrase de présentation + écrit tel quel :
 
 Exemple de [lien](http://example.com) = `Exemple de [lien](http://example.com)`  
 
-Exemple de [lien vers un dossier](/utiliser-markdown/) = `Exemple de [lien vers un dossier](/utiliser-markdown/)`
+Exemple de [lien vers un dossier](/utiliser-markdown/) = `Exemple de [lien vers un dossier](/utiliser-markdown/)`  
 
  
+![Texte alternatif (si l'image n'apparaît pas)](https://github.githubassets.com/images/modules/notices/context_button.png)  
 
-Ce que vous mettez entre crochet est le texte alternatif de l'image, que nous vous conseillons fortement d'intégrer à chaque fois que vous mettez une image.
-
-Important : ça ne marche qu'avec des url d'images prises sur le web.
-
-`![Simplon.co](http://simplon.co/wp-content/uploads/2015/04/if-coder-keep-coding-else-learn-with-simplon-2-600x675.png)`
-
-![Simplon.co](http://simplon.co/wp-content/uploads/2015/04/if-coder-keep-coding-else-learn-with-simplon-2-600x675.png)
+= `![Texte alternatif (si l'image n'apparaît pas)](https://github.githubassets.com/images/modules/notices/context_button.png)`  
 
 ---
 
