@@ -33,6 +33,12 @@ __gras__ = `__gras__`
 `> sur une seule`  
 `> ligne`  
 
+> Texte cité  
+> sur plusieurs lignes  
+
+`> Texte cité  ` ← 2 espaces  
+`> sur plusieurs lignes  `  
+
 ---
 
 ### Listes
@@ -87,7 +93,7 @@ __gras__ = `__gras__`
 
 ### Code
 
-`<h1>Morceau de code</h1>` = entouré avec accent grave (`AltGr` + `7`)  
+`<h1>Morceau de code</h1>` = entouré avec accent grave [ \` ] (`AltGr` + `7`)  
 
 
 Code entier = écrit tel quel :  
