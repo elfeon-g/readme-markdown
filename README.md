@@ -113,7 +113,7 @@ Exemple de [lien vers un dossier](/utiliser-markdown/) = `Exemple de [lien vers 
  
 ![Texte alternatif (si l'image n'apparaît pas)](https://github.githubassets.com/images/modules/notices/context_button.png)  
 
-= `![Texte alternatif (si l'image n'apparaît pas)](https://github.githubassets.com/images/modules/notices/context_button.png)`  
+= `![Texte alternatif, si l'image n'apparaît pas](https://github.githubassets.com/images/modules/notices/context_button.png)`  
 
 ---
 
